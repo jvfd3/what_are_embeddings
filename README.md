@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/veekaybee/what_are_embeddings/blob/main/kandinsky.png" />
+  <img src="https://raw.githubusercontent.com/veekaybee/what_are_embeddings/refs/heads/main/kandinsky.png" />
 </p>
 
 # What are embeddings?
