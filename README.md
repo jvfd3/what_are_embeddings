@@ -2,10 +2,9 @@
   <img src="https://github.com/veekaybee/what_are_embeddings/blob/main/kandinsky.png" />
 </p>
 
+# What are embeddings?
 
-# What are embeddings? 
-This repository contains the generated LaTex document, website, and complementary notebook code for 
-["What are Embeddings".](https://vickiboykis.com/what_are_embeddings/)
+This repository contains the generated LaTex document, website, and complementary notebook code for ["What are Embeddings".](https://vickiboykis.com/what_are_embeddings/)
 
 [![DOI](https://zenodo.org/badge/644343479.svg)](https://zenodo.org/badge/latestdoi/644343479)
 
