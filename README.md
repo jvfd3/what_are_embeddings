@@ -34,12 +34,12 @@ If you have any changes that you'd like to make to the document including clarif
 
 ```bibtex
 @software{Boykis_What_are_embeddings_2023,
-author = {Boykis, Vicki},
-doi = {10.5281/zenodo.8015029},
-month = jun,
-title = {{What are embeddings?}},
-url = {https://github.com/veekaybee/what_are_embeddings},
-version = {1.0.1},
-year = {2023}
+  author   = {Boykis, Vicki},
+  doi      = {10.5281/zenodo.14176887},
+  month    = {nov},
+  title    = {{What are embeddings?}},
+  url      = {https://github.com/veekaybee/what_are_embeddings},
+  version  = {1.0.7},
+  year     = {2024}
 }
 ```
